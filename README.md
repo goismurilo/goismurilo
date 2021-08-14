@@ -1,6 +1,6 @@
 ### Oi, dev :rocket: :rocket: :rocket: 
 
-Eu sou o Murilo Gois(🇧🇷). Atualmente não trabalho como dev mas esse é meu maior objetivo.
+Eu sou o Murilo Gois(🇧🇷). Atualmente trabalho como Dev e esse sempre foi o meu maior objetivo ❤️.
 
 Estou aqui sempre tentando melhorar minhas Skills como desenvolvedor,
 se tiver alguma sugestão me mande mensagem nas minhas redes sociais,
