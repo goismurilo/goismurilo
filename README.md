@@ -7,7 +7,6 @@
 </div>
  <div style="display: inline_block"><br>
     <img align="center" alt="murilo-c#" height="30" width="30" src="https://user-images.githubusercontent.com/39069727/129460992-1706f4ea-069c-4726-bdd6-be654ffc40b7.png">
-    <img align="center" alt="Murilo-php" height="30" width="40" src="https://user-images.githubusercontent.com/39069727/129461068-0a4a07ec-a1db-4f96-82ec-d79a9f5a7fd4.png">
     <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
