@@ -6,8 +6,8 @@ Eaew, dev :rocket: :rocket: :rocket:
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=goismurilo&layout=compact&langs_count=8&theme=outrun" />
 </div>
   
- <div align="center" style="display: inline_block; background-color: #000; border-radius: 1%">
-	<div align="center" style="margin: 8px">
+ <div align="center" style="display: inline_block; background-color: #000; border-radius: 1%; padding:2rem">
+	<div align="center" style="margin: 1rem">
     	<img align="center" alt="Murilo Avatar MetaVerso" src="./gif/metaverso-avatar.gif">
   	</div>
     <img align="center" alt="Murilo-C#" height="30" width="30" src="https://user-images.githubusercontent.com/39069727/129460992-1706f4ea-069c-4726-bdd6-be654ffc40b7.png">
