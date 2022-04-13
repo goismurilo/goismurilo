@@ -1,5 +1,5 @@
 Eaew, dev :rocket: :rocket: :rocket: 
-## Esse sou o ***Murilo Gois(🇧🇷)***...
+## Eu sou ***Murilo Gois(🇧🇷)***...
 <div align="center">
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=goismurilo&show_icons=true&theme=outrun&include_all_commits=true&count_private=true" />
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=goismurilo&layout=compact&langs_count=8&theme=outrun" />
