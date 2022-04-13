@@ -1,14 +1,14 @@
 Eaew, dev :rocket: :rocket: :rocket: 
 ## Esse sou o ***Murilo Gois(🇧🇷)***...
----
 <div align="center">
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=goismurilo&show_icons=true&theme=outrun&include_all_commits=true&count_private=true" />
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=goismurilo&layout=compact&langs_count=8&theme=outrun" />
 </div>
-  
- <div align="center" style="display: inline_block; background-color: #000; border-radius: 1%; padding:2rem">
+  <br/>
+ <div align="center" style="display: inline_block; border-radius: 1%; padding:2rem;">
 	<div align="center" style="margin: 1rem">
     	<img align="center" alt="Murilo Avatar MetaVerso" src="./gif/metaverso-avatar.gif">
+		<br/><br/>
   	</div>
     <img align="center" alt="Murilo-C#" height="30" width="30" src="https://user-images.githubusercontent.com/39069727/129460992-1706f4ea-069c-4726-bdd6-be654ffc40b7.png">
     <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,7 @@ Eaew, dev :rocket: :rocket: :rocket:
     <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+<br/>
 <p align="center">
 Eu sou um jovem desenvolvedor FullStack sempre em busca de novos desafios e experiencias com novas tecnologias. <br/>
 Fique a vontade pra entrar em contato comigo atraves de minhas redes sociais.</br>
